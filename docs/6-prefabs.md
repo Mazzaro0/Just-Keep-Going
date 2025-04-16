@@ -2,7 +2,7 @@
 
 ### 🚀 NaveDoJogador
 - **Descrição**: Nave controlada pelo jogador durante o combate.
-- **Quando são utilizados**: Durante todo o gameplay nas fases.
+- **Quando são utilizados**: Durante todo o gameplay.
 - **Componentes**:
   - **Sprite**: Nave principal.
   - **Colisor**: Box Collider 2D.
@@ -30,7 +30,7 @@
 
 ### 🐙 CriaturaEspacial
 - **Descrição**: Inimigo especial em forma de criatura (tipo polvo).
-- **Quando são utilizados**: Fase final como mini boss ou boss.
+- **Quando são utilizados**: Todo momento (Inimigo mais dificil).
 - **Componentes**:
   - **Sprite**: Criatura animada com tentáculos.
   - **Colisor**: Polygon Collider 2D.
