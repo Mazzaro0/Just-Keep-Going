@@ -1,12 +1,12 @@
 ### Estética
 
-Protagonista:
-- Skeld V (Nave Espacial).
+- Protagonista:
+  - Skeld V (Nave Espacial).
 
 Inimigos:
-- Outras naves hostis (inimigos no espaço).
-- Uma criatura misteriosa com aparência de polvo espacial.
-- Características marcantes: Estilo cartunesco 2D, colorido, mas com tom de suspense e caos.
+  - Outras naves hostis (inimigos no espaço).
+  - Uma criatura misteriosa com aparência de polvo espacial.
+  - Características marcantes: Estilo cartunesco 2D, colorido, mas com tom de suspense e caos.
 
 - História
 
@@ -29,41 +29,8 @@ Começa com o alerta de perigo no radar e a primeira onda de inimigos no espaço
   - A cada fase, os inimigos ficam mais rápidos e surgem novas mecânicas (como a criatura-pulpo).
   - Internamente, a nave perde tripulantes (1 morre e 1 é expulso por fase).
   
-  Conforme Kael se aprofunda na floresta de Mycos, os inimigos se tornam mais numerosos, mais agressivos e mais estranhos
-
-   - Novas abilidades X Novos desafios
-    - Como o jogo termina?
-  
-  Quando o Kael não resistir e morrer diante a horda de esqueletos
-  
-    - Quais os possíveis finais da sua história?
-  
-Final Bom – Kael Sobrevive à Horda
-Kael resiste à última horda de esqueletos, mesmo exausto e cercado. Usando todas as suas habilidades, ele vence a emboscada e segue até o Templo da Perdição.
-
-Final Ruim – Kael Morre para a Horda
-A quantidade de esqueletos é insana. Mesmo lutando como nunca, Kael é derrubado. Seu corpo fica no chão, cercado por ossos quebrados e sangue. A floresta volta ao silêncio.
-
 - Sentidos
     - Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
-
-Visão:
-O jogo tem um estilo pixel art sombrio, com ambientes escuros, neblina e contraste forte entre luz e sombra para criar uma sensação constante de mistério e tensão.
-
-Audição:
-Trilhas sonoras ambientais e sombrias, com música de tensão crescente conforme o jogador avança.
-
-- O jogo vai ter elementos visuais, sonoros, táteis, degustativos, olfativos?
-Degustativos, olfativos e táteis não teremos suporte, porém visual e sonoro sim!
-
-- Como esses elementos são apresentados para o jogador?
-
-Elementos Visuais
-Estilo pixel art sombrio, com cores escuras e detalhes em vermelho, roxo e verde para criar um clima de mistério e perigo.
-
-Efeitos sonoros impactantes:
-- Passos de Kael na floresta.
-- Rangidos de ossos dos esqueletos.
-- Som metálico ao golpear.
-- Ruídos distantes que indicam a aproximação de inimigos.
-
+    - Visuais: Efeitos de tiros, explosões, mortes dos tripulantes.
+    - Sonoros: Alerta de impostor, barulhos espaciais, música de tensão e combate.
+    - Táteis (opcional, se houver controle ou vibração): Feedback em colisões e tiros.
