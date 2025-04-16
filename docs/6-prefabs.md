@@ -1,75 +1,63 @@
-### Prefabs
+## 🧩 Prefabs
+
+### 🚀 NaveDoJogador
+- **Descrição**: Nave controlada pelo jogador durante o combate.
+- **Quando são utilizados**: Durante todo o gameplay nas fases.
+- **Componentes**:
+  - **Sprite**: Nave principal.
+  - **Colisor**: Box Collider 2D.
+  - **Fonte de Áudio**: Efeitos de tiro e dano.
+  - **Scripts**:
+    - `ControladorNave`: Controla movimento com teclas e mira.
+    - `Disparo`: Gerencia a criação dos projéteis.
+    - `Vida`: Reduz vida ao colidir com inimigos ou projéteis.
 
 ---
 
-#### Kael (Personagem Principal)
-
-- **Nome:** Kael  
-- **Descrição:** Guerreiro controlado pelo jogador. Luta contra esqueletos e coleta moedas.  
-- **Quando são utilizados:** Desde o início do jogo até a morte ou vitória.  
-- **Quais seus componentes:**  
-  - **Sprites:** Animações de andar, pular, atacar e tomar dano  
-  - **Colisores:** BoxCollider2D para interações com inimigos, moedas e ambiente  
-  - **Fontes de audio:** Som de espada, pulo, dano e morte  
-  - **Scripts:**  
-    - Controle de movimento  
-    - Sistema de combate  
-    - Sistema de vida  
+### 👾 InimigoNave
+- **Descrição**: Naves inimigas que atacam o jogador.
+- **Quando são utilizados**: Em todas as fases, com dificuldade crescente.
+- **Componentes**:
+  - **Sprite**: Naves pequenas, médias ou grandes.
+  - **Colisor**: Box Collider 2D.
+  - **Fonte de Áudio**: Explosão ao morrer.
+  - **Scripts**:
+    - `MovimentoInimigo`: Movimento automático em direção ao jogador.
+    - `AtaqueInimigo`: Atira projéteis em intervalos.
+    - `Vida`: Destrói o inimigo ao chegar a 0.
 
 ---
 
-#### Esqueleto Inimigo
-
-- **Nome:** Esqueleto  
-- **Descrição:** Inimigo comum que causa dano ao jogador.  
-- **Quando são utilizados:** Espalhados pelo cenário ao longo da fase.  
-- **Quais seus componentes:**  
-  - **Sprites:** Andando, atacando, morrendo  
-  - **Colisores:** BoxCollider2D para dano e colisão  
-  - **Fontes de audio:** Som de ataque e morte  
-  - **Scripts:**  
-    - Movimento automático  
-    - Ataque ao jogador  
-    - Morte ao perder vida  
+### 🐙 CriaturaEspacial
+- **Descrição**: Inimigo especial em forma de criatura (tipo polvo).
+- **Quando são utilizados**: Fase final como mini boss ou boss.
+- **Componentes**:
+  - **Sprite**: Criatura animada com tentáculos.
+  - **Colisor**: Polygon Collider 2D.
+  - **Fonte de Áudio**: Rugido, ataque especial.
+  - **Scripts**:
+    - `MovimentoTentacular`: Movimento aleatório com padrão de perseguição.
+    - `AtaqueEspecial`: Lança múltiplos projéteis em todas as direções.
+    - `Vida`: Mostra barra de vida e destrói com animação especial.
 
 ---
 
-#### Moeda Mística
-
-- **Nome:** Moeda  
-- **Descrição:** Item coletável que aumenta a pontuação e dificuldade.  
-- **Quando são utilizados:** Posicionadas em locais estratégicos no mapa.  
-- **Quais seus componentes:**  
-  - **Sprites:** Animação de rotação/brilho  
-  - **Colisores:** Trigger para coleta  
-  - **Fontes de audio:** Som ao coletar moeda  
-  - **Scripts:**  
-    - Aumenta pontuação  
-    - Aumenta dificuldade com base nas moedas coletadas  
+### 💥 Projetil
+- **Descrição**: Projéteis disparados pela nave do jogador ou inimigos.
+- **Quando são utilizados**: Sempre que há disparos.
+- **Componentes**:
+  - **Sprite**: Tiro pequeno com brilho.
+  - **Colisor**: Circle Collider 2D.
+  - **Scripts**:
+    - `MovimentoProjetil`: Movimento contínuo na direção disparada.
+    - `Dano`: Aplica dano ao colidir com inimigos ou jogador.
 
 ---
 
-#### Tile de Plataforma
-
-- **Nome:** Tile  
-- **Descrição:** Blocos utilizados para formar o terreno e obstáculos.  
-- **Quando são utilizados:** Construção de mapas e cenários.  
-- **Quais seus componentes:**  
-  - **Sprites:** Texturas de chão, pedras, paredes  
-  - **Colisores:** BoxCollider2D para impedir atravessamento  
-  - **Fontes de audio:** Não possui  
-  - **Scripts:** (opcional) Para eventos como plataformas móveis  
-
----
-
-#### HUD de Vida
-
-- **Nome:** Barra de Vida  
-- **Descrição:** Interface que mostra a vida atual do jogador.  
-- **Quando são utilizados:** Durante todo o gameplay.  
-- **Quais seus componentes:**  
-  - **Sprites:** Ícones ou barras visuais  
-  - **Colisores:** Não se aplica  
-  - **Fontes de audio:** (opcional) Som ao perder vida  
-  - **Scripts:**  
-    - Atualiza visualmente a vida com base no valor atual  
+### 🔊 GerenciadorDeAudio
+- **Descrição**: Controla os efeitos sonoros e músicas do jogo.
+- **Quando são utilizados**: Durante todo o jogo.
+- **Componentes**:
+  - **Fonte de Áudio**: Músicas de fundo, tiros, explosões, efeitos de fase.
+  - **Scripts**:
+    - `AudioManager`: Reproduz sons com base em eventos do jogo (ex: colisão, morte, transição de fase).
