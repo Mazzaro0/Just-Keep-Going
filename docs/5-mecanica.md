@@ -22,7 +22,7 @@
   - Nave do jogador, inimigos, HUD, efeitos sonoros e visuais.
     
 - **Quais os limites do jogo?**
-  - Apenas 3 fases.
+  - Infinito
   - Somente combate no espaço (sem interação interna).
     
 - **Quais os resultados do jogo?**
