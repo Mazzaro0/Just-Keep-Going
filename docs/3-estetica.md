@@ -9,7 +9,7 @@ Inimigos:
 - Características marcantes: Estilo cartunesco 2D, colorido, mas com tom de suspense e caos.
 
 - História
-- 
+
 No ano de 2478, a humanidade iniciou a colonização interestelar por meio da nave Skeld V, um protótipo de guerra espacial equipado com o que há de mais avançado em armamentos, escudos e inteligência artificial. A bordo, está uma tripulação treinada para explorar os confins da galáxia e manter a paz… mas algo deu errado.
 Você é o piloto da nave, o único com acesso ao sistema de controle externo, e tem uma missão clara:
 
