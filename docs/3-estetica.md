@@ -21,14 +21,13 @@ Você recebe mensagens enigmáticas, relatórios suspeitos e alertas de falhas i
 
 Quanto mais tempo você sobrevive, mais intensa fica a luta no espaço... e mais instável a situação interna da nave.
 
-Como o Jogo começa?
+- Como o Jogo começa?
   
-- Começa com o alerta de perigo no radar e a primeira onda de inimigos no espaço.
+Começa com o alerta de perigo no radar e a primeira onda de inimigos no espaço.
 
-Como o jogo evolui?
-
-- A cada fase, os inimigos ficam mais rápidos e surgem novas mecânicas (como a criatura-pulpo).
-- Internamente, a nave perde tripulantes (1 morre e 1 é expulso por fase).
+- Como o jogo evolui?
+  - A cada fase, os inimigos ficam mais rápidos e surgem novas mecânicas (como a criatura-pulpo).
+  - Internamente, a nave perde tripulantes (1 morre e 1 é expulso por fase).
   
   Conforme Kael se aprofunda na floresta de Mycos, os inimigos se tornam mais numerosos, mais agressivos e mais estranhos
 
