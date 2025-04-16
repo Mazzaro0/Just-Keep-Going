@@ -10,12 +10,13 @@ Quais os elementos de atenção e envolvimento na história?
     - Evolução da criatura espacial.
 
 Quais os tipos de decisões do seu jogador?
-- Dois gumes / Ambíguo:
-    - O jogador não pode interferir nos eventos internos (impostores), apenas observa.
-    - Precisa decidir entre focar em sobreviver ou tentar entender a lógica das mortes.
- 
-- Onde e como acontecem:
-    - Entre as fases e nos momentos de "relatório de morte", que criam dilemas e suspense.
+- Discernível e Integrado:
+    - O jogador toma decisões claras e estratégicas durante o combate espacial (ex: atirar, desviar, priorizar alvos).
+    - Essas decisões estão integradas à temática de caos na nave, mesmo sem poder interferir nos eventos internos.
+
+Onde e como acontecem:
+- Durante o gameplay de cada fase, enquanto lida com múltiplos inimigos (naves e criatura).
+- A tensão interna dos impostores só serve como pano de fundo narrativo — o jogador continua focado no combate.
 
 Guiando o Jogador:
 - Orientação direta:
