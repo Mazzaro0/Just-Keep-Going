@@ -30,7 +30,6 @@ Começa com o alerta de perigo no radar e a primeira onda de inimigos no espaço
   - Internamente, a nave perde tripulantes (1 morre e 1 é expulso por fase).
   
 - Sentidos
-    - Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
     - Visuais: Efeitos de tiros, explosões, mortes dos tripulantes.
     - Sonoros: Alerta de impostor, barulhos espaciais, música de tensão e combate.
     - Táteis (opcional, se houver controle ou vibração): Feedback em colisões e tiros.
