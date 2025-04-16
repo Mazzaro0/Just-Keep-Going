@@ -5,9 +5,7 @@ Quais os elementos de atenção e envolvimento na história?
     - Ação intensa com combate espacial logo no início.
     - Estilo visual chamativo + alerta de impostores dentro da nave.
 - Envolvimento (longo prazo):
-    - Mistério sobre quem são os impostores.
     - Curiosidade sobre o próximo tripulante a ser eliminado.
-    - Evolução da criatura espacial.
 
 Quais os tipos de decisões do seu jogador?
 - Discernível e Integrado:
