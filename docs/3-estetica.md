@@ -1,28 +1,30 @@
 ### Estética
 
-Protagonista – Kael
-Descrição: Um guerreiro silencioso e determinado, banido de seu reino após ser acusado injustamente de traição. Busca redenção enfrentando os mortos que agora assolam a floresta mística.
+Protagonista:
+- Skeld V (Nave Espacial).
 
-Plano de Fundo: Kael era o capitão da guarda real, mas foi traído por um antigo aliado e expulso. Em exílio, ouviu rumores de que os mortos estavam se levantando, liderados por um antigo inimigo seu. Decide voltar, não só para salvar o reino, mas para enfrentar seu passado.
-
-Características principais:
-
-- Usa espada
-- Armadura leve
-- Focado, resistente, justo
-- Animações suaves (correr, pular, atacar, tomar dano)
+Inimigos:
+- Outras naves hostis (inimigos no espaço).
+- Uma criatura misteriosa com aparência de polvo espacial.
+- Características marcantes: Estilo cartunesco 2D, colorido, mas com tom de suspense e caos.
 
 - História
+No ano de 2478, a humanidade iniciou a colonização interestelar por meio da nave Skeld V, um protótipo de guerra espacial equipado com o que há de mais avançado em armamentos, escudos e inteligência artificial. A bordo, está uma tripulação treinada para explorar os confins da galáxia e manter a paz… mas algo deu errado.
+Você é o piloto da nave, o único com acesso ao sistema de controle externo, e tem uma missão clara:
+sobreviver a ondas de inimigos alienígenas que misteriosamente começaram a atacar a nave logo após o salto hiperespacial.
+Mas, enquanto luta pela sobrevivência no espaço, dentro da Skeld V, surge uma ameaça silenciosa e mortal: dois impostores infiltrados entre a tripulação sabotam sistemas, espalham o caos e eliminam membros silenciosamente.
+Você recebe mensagens enigmáticas, relatórios suspeitos e alertas de falhas internas… mas não pode fazer nada sobre isso. Seu foco é o combate. Sua missão: manter a nave viva, a qualquer custo.
 
-Premissa
-- Kael é um renomado caçador de monstros, conhecido por sua frieza e habilidade com a espada. Diferente dos outros, ele não caça por glória ou dinheiro — mas pelo puro prazer da caçada. A floresta de Mycos, envolta em neblina e cheia de lendas sobre criaturas amaldiçoadas, sempre despertou sua curiosidade.
-Quando surgem rumores de esqueletos vivos marchando entre as árvores e moedas douradas espalhadas por trilhas esquecidas, Kael parte sem hesitar. Para ele, essa não é uma missão... é diversão.
+Quanto mais tempo você sobrevive, mais intensa fica a luta no espaço... e mais instável a situação interna da nave.
 
-    - Como o Jogo começa?
+Como o Jogo começa?
   
-  O jogo começa com uma breve hitória sobre o passado do protagonista, para dar um contexto ao jogador e depois se iniciar a aventura.
+- Começa com o alerta de perigo no radar e a primeira onda de inimigos no espaço.
 
-    - Como o jogo evolui?
+Como o jogo evolui?
+
+- A cada fase, os inimigos ficam mais rápidos e surgem novas mecânicas (como a criatura-pulpo).
+- Internamente, a nave perde tripulantes (1 morre e 1 é expulso por fase).
   
   Conforme Kael se aprofunda na floresta de Mycos, os inimigos se tornam mais numerosos, mais agressivos e mais estranhos
 
