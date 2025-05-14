@@ -1,0 +1,50 @@
+# Arquivos do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Arquivos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Arquivos do VS Code
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos do Unity3D gerados
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Arquivos de build
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Arquivos de crash
+sysinfo.txt
